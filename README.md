@@ -85,7 +85,3 @@ AI-File-Organizer/
 - Add more customizable organization categories
 - Add AI ability to make its own folders
 - Support additional file types
-
-## License
-
-This project is for educational and personal use.
